@@ -4,8 +4,8 @@ function Header({ onCartOpen, cartCount, onBookingOpen }) {
   return (
     <header className="site-header">
       <div className="site-header__logo">
-        <a href="/" aria-label="DIDI COUTURE home">
-          <span className="logo-text">DIDI COUTURE</span>
+        <a href="/" aria-label="Mayen's Touch home">
+          <span className="logo-text">Mayen's Touch</span>
         </a>
       </div>
 

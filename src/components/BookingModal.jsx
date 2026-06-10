@@ -155,7 +155,7 @@ export default function BookingModal({ onClose }) {
 
         <div className="booking-modal__header">
           <div>
-            <p className="booking-modal__eyebrow">DIDI COUTURE ATELIER</p>
+            <p className="booking-modal__eyebrow">MAYEN'S TOUCH ATELIER</p>
             <h2 className="booking-modal__title">Book a Fitting</h2>
           </div>
           <button className="booking-modal__close" onClick={onClose} aria-label="Close booking">✕</button>

@@ -35,7 +35,7 @@ function Footer() {
           </div>
 
           <div className="site-footer__tagline">
-            <p>DIDI COUTURE</p>
+            <p>MAYEN'S TOUCH</p>
             <p>A MODERN EXPRESSION OF HERITAGE</p>
           </div>
         </div>
@@ -54,14 +54,14 @@ function Footer() {
           <div className="site-footer__col">
             <h4 className="site-footer__heading">SOCIAL</h4>
             <ul className="site-footer__links">
-              <li><a href="https://www.instagram.com/didi.couture/" target="_blank" rel="noopener noreferrer">INSTAGRAM</a></li>
+              <li><a href="https://www.instagram.com/mayens.touch/" target="_blank" rel="noopener noreferrer">INSTAGRAM</a></li>
             </ul>
           </div>
 
           <div className="site-footer__col">
             <h4 className="site-footer__heading">GET IN TOUCH</h4>
             <ul className="site-footer__links">
-              <li><a href="mailto:hello@didi-couture.com">HELLO@DIDI-COUTURE.COM</a></li>
+              <li><a href="mailto:hello@mayenstouch.com">HELLO@MAYENSTOUCH.COM</a></li>
             </ul>
           </div>
 
@@ -77,7 +77,7 @@ function Footer() {
         </div>
 
         <div className="site-footer__bottom">
-          <p className="site-footer__copy">ALL RIGHTS RESERVED _ DIDI COUTURE©2026</p>
+          <p className="site-footer__copy">ALL RIGHTS RESERVED _ MAYEN'S TOUCH©2026</p>
           <p className="site-footer__credit">
             <a href="https://www.kruddpippin.co/" target="_blank" rel="noopener noreferrer">Designed by Kruddpippin</a>
           </p>

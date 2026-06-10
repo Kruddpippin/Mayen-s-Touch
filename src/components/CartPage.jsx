@@ -211,7 +211,7 @@ function CartPage({ items, initialStep = 'cart', onClose, onRemove, onUpdateQty 
                   <div className="pickup-info">
                     <div className="pickup-info__row">
                       <span className="pickup-info__label">Store</span>
-                      <strong>DIDI COUTURE Atelier</strong>
+                      <strong>Mayen's Touch Atelier</strong>
                     </div>
                     <div className="pickup-info__row">
                       <span className="pickup-info__label">Address</span>
@@ -353,7 +353,7 @@ function CartPage({ items, initialStep = 'cart', onClose, onRemove, onUpdateQty 
                   <div className="payment-transfer">
                     <p className="transfer-note">
                       Transfer the exact total to the account below, then send proof of payment to{' '}
-                      <a href="mailto:hello@didi-couture.com">hello@didi-couture.com</a>
+                      <a href="mailto:hello@mayenstouch.com">hello@mayenstouch.com</a>
                     </p>
                     <div className="transfer-details">
                       <div className="transfer-row">
@@ -362,7 +362,7 @@ function CartPage({ items, initialStep = 'cart', onClose, onRemove, onUpdateQty 
                       </div>
                       <div className="transfer-row">
                         <span>Account Name</span>
-                        <strong>DIDI COUTURE LTD</strong>
+                        <strong>MAYEN'S TOUCH LTD</strong>
                       </div>
                       <div className="transfer-row">
                         <span>Account Number</span>

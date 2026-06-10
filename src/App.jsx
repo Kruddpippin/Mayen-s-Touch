@@ -17,7 +17,7 @@ function App() {
   const [cartOpen, setCartOpen] = useState(false)
   const [cartItems, setCartItems] = useState(() => {
     try {
-      const saved = localStorage.getItem('didi-cart')
+      const saved = localStorage.getItem('mayens-touch-cart')
       return saved ? JSON.parse(saved) : []
     } catch {
       return []
@@ -27,7 +27,7 @@ function App() {
   const [bookingOpen, setBookingOpen] = useState(false)
 
   useEffect(() => {
-    localStorage.setItem('didi-cart', JSON.stringify(cartItems))
+    localStorage.setItem('mayens-touch-cart', JSON.stringify(cartItems))
   }, [cartItems])
 
   const upsertItem = (product) => {

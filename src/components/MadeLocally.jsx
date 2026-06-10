@@ -6,7 +6,7 @@ function MadeLocally() {
       <div className="container">
         <div className="made-locally__header">
           <p className="made-locally__title serif">
-            DIDI COUTURE©2026<br />
+            MAYEN'S TOUCH©2026<br />
             DESIGNED AND MADE LOCALLY
           </p>
         </div>

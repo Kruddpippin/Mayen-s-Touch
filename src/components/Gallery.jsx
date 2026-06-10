@@ -37,7 +37,7 @@ function Gallery() {
         ))}
 
         <div className="gallery__controls">
-          <span className="gallery__label">DIDI COUTURE</span>
+          <span className="gallery__label">MAYEN'S TOUCH</span>
           <button
             className="gallery__btn gallery__btn--prev"
             onClick={handlePrev}

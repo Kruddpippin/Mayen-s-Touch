@@ -2,7 +2,7 @@ import './Community.css'
 
 const partners = [
   {
-    name: 'DIDI COUTURE Collective',
+    name: "Mayen's Touch Collective",
     description: 'A creative collective rooted in African fashion, art, and culture. We bring together designers, stylists, and storytellers who believe that clothing is more than fabric — it is identity, heritage, and expression made visible.',
     href: '/',
   },

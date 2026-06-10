@@ -20,7 +20,7 @@ const sections = [
     sublabel: 'Social',
     cta: 'Instagram',
     image: 'https://oddritualgolf.com/cdn/shop/files/DSC07180-2.jpg?v=1748601863',
-    href: 'https://www.instagram.com/didi.couture/',
+    href: 'https://www.instagram.com/mayens.touch/',
   },
 ]
 

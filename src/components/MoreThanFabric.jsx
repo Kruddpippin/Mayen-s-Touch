@@ -27,7 +27,7 @@ function MoreThanFabric() {
         <div className="more-than-fabric__text">
           <h3 className="more-than-fabric__subhead">GIVING BACK</h3>
           <p>
-            We never set out to be just a clothing brand. DIDI COUTURE is as much about culture as it is about fashion — and part of that is showing up for the communities we belong to. From day one, we've believed in using the platform we're building to give back. That means supporting local initiatives, collaborating with purpose-led partners, and investing in the kind of change that outlives a single season. Whether it's through fabric that speaks beyond the runway or projects rooted in real impact, we're here to move the needle in fashion and in society.
+            We never set out to be just a clothing brand. Mayen's Touch is as much about culture as it is about fashion — and part of that is showing up for the communities we belong to. From day one, we've believed in using the platform we're building to give back. That means supporting local initiatives, collaborating with purpose-led partners, and investing in the kind of change that outlives a single season. Whether it's through fabric that speaks beyond the runway or projects rooted in real impact, we're here to move the needle in fashion and in society.
           </p>
         </div>
       </div>
